@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"PKD","RCC","renal cancer","clinical PKD",-0.0282881126863944,0.0284521213822169,0.332602429761159
